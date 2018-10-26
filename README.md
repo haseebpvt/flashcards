@@ -6,3 +6,5 @@ The app is meant for stuff like learning vocabulary of different languages.
 Play Store: https://play.google.com/store/apps/details?id=com.quchen.flashcard
 
 [Or latest APK from repo](app/release/app-release.apk)
+
+//Test line
